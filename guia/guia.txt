@@ -1,0 +1,39 @@
+como usar o selfbot:
+
+tenha o python 3.7.3 instalado em seu computador, lembre-se de adicionar o python ao PATH.
+(o instalador está na pasta 'instalar'.)
+
+-----
+
+instale as dependencias do selfbot, rodando o 'setup.bat'
+(o arquivo está na pasta 'instalar'.)
+
+-----
+adicione os tokens no "tokens.txt"
+(o arquivo está na pasta 'selfbot'.)
+
+adicione os tokens dessa forma;
+
+token
+token
+token
+token
+token
+
+não utilize " ou ; 
+
+obs: é recomendado o uso de 5 tokens ou mais por selfbot.
+
+-----
+
+ponha a sua mensagem em 'mensagem.txt', assim como o seu convite.
+(o arquivo está na pasta 'selfbot'.)
+
+-----
+
+rode o 'run_selfbot.py' para ligar o bot.
+(o arquivo está na pasta 'selfbot'.)
+
+-----
+
+
